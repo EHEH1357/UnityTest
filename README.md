@@ -1,4 +1,3 @@
-#version 1(2022/4/14)
 ##  🍎 Dongguk Market Unity Test
 | Release Version | Date | 내용 |
 | ------ | -- |----------- |
